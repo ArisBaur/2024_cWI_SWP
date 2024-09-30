@@ -1,0 +1,10 @@
+@startuml
+
+class NewsChannel {
+
+    - name: string
+
+}
+
+
+@enduml
